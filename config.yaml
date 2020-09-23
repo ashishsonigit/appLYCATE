@@ -1,0 +1,21 @@
+paths:
+ #PATH : 'C:/Users/asoni/Documents/DProjects/SalesMonitoringToolVer1/smtv1'
+ PATH : '.'
+ PATH_PYTHON : "C:/Users/asoni/AppData/Local/Continuum/anaconda3/envs/py3.6/python.exe"
+ PYTHON_SOURCEFILE : 'python/process.py'
+ K_DRIVE : 'K:/A & A/London/FS/Marketing/Conduct Risk/Machine Learning/Ashish/rawdata'
+ LIME_EXPLANATION : "outputs/lime_explanation.html"
+ FEATURES : 'outputs/features/features.csv'
+ DATA : 'data/training/data.csv'
+ 
+constants:
+ cases : 114
+ CONDA_ENV : "py3.6"
+ 
+ 
+AWS_CONFIG:
+ smt_ACCESS_KEY_ID : 'xxxx'
+ smt_AWS_ACCESS_SECRET_KEY : 'xxxx'
+ smt_AWS_REGION : 'xxxx'
+ smt_AWS_BUCKET_NAME : 'xxx'  
+
